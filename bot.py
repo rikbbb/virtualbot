@@ -36,4 +36,4 @@ async def on_message(message):
     elif message.content.startswith("!help"):
         await client.send_message(message.channel, "Vraag dit aan me en ik zal antwoorden: !help, !ping, !test, !design, !edit, !creators, !info fervawi, !info rikkert, !photoshop tutorial, !première pro tutorial")
   
-client.run("NDkwODQyMzk5MzU5MzY5MjE3.Dn_uWQ.9bftnSw-55WOjFAZC3PTqqeVa2A")
+client.run("LMAO")
